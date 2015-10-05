@@ -9,6 +9,10 @@
   "author": "SuThaw",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0"
+  },
+  "dependencies": {
+    "gulp-jade": "^1.1.0"
   }
 }

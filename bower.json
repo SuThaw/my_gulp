@@ -1,0 +1,19 @@
+{
+  "name": "my_gulp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SuThaw/my_gulp",
+  "authors": [
+    "SuThaw <suthaw524@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
